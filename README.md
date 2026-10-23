@@ -62,7 +62,7 @@ The issue is with MW4's **On-Demand Texture Streaming** system. It's supposed to
 
 | Main Interface | 
 |:---:|
-[Main Menu] <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ae5cc5be-b256-41f5-9796-b851f0af66e5" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ae5cc5be-b256-41f5-9796-b851f0af66e5" />
  
 
 </div>
